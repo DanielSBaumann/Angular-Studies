@@ -1,0 +1,9 @@
+assets/
+zip/
+final/
+# hi-world
+projetos/hi-world/e2e/
+projetos/hi-world/node_modules/
+# calculadora
+projetos/calculadora/e2e/
+projetos/calculadora/node_modules/
